@@ -1,0 +1,6 @@
+framework module Pods_BulmacaKelimelerim {
+  umbrella header "Pods-BulmacaKelimelerim-umbrella.h"
+
+  export *
+  module * { export * }
+}
